@@ -1,6 +1,6 @@
 /*-------------------------
-Name: Yerkebulan Zhaiylkan
-Student id: 55903
+Name: Timur Giyazov
+Student id: 55734
 Java Final exam
 Date: 19.01.2022
  --------------------------*/
